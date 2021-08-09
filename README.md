@@ -32,7 +32,7 @@
 
 </a>
 <a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamadelattar&repo=earncode&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamadelattar&repo=learncode&theme=light" />
 </a>
 
  
