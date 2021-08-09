@@ -21,19 +21,11 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png"></code>      
 
-<a href="https://github.com/Mohamadelattar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamadelattar&theme=light&hide_langs_below=1" />
-</a>
+ 
 <a href="https://github.com/Mohamadelattar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamadelattar&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/Mohamadelattar/RDV-Agence">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamadelattar&repo=RDV-Agence&theme=light" />
-
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamadelattar&repo=learncode&theme=light" />
-</a>
+ 
 
  
 
